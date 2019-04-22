@@ -1,0 +1,4 @@
+README:
+1. Add Microsoft.VC80.CRT into root folder to convert python to executable files on windows.
+2. python v3.0 is needed.
+3. need create folder EnumPattern, result, patternLib, testCsvFiles
